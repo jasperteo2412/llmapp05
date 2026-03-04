@@ -27,7 +27,7 @@
 
 
   #  Added to both workflows - llm-multiroute-llm-frontend-python                                                    
-  - Docker Hub Login — Authenticates using jasperteo2412 and the          
+  - Docker Hub Login — Authenticates using jttxncs and the          
   DOCKERHUB_TOKEN secret. Skipped on pull requests to avoid exposing credentials.
   - Metadata extraction — Uses docker/metadata-action@v5 to generate smart tags:
     - sha-<commit> on every build
