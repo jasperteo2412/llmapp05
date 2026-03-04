@@ -41,12 +41,12 @@
   ┌─────────────────────┬────────────────────────────────┐             
   │      Workflow       │             Image              │             
   ├─────────────────────┼────────────────────────────────┤             
-  │ llm-multiroute      │ jasperteo2412/llm-multiroute      │             
+  │ llm-multiroute      │ jttxncs/llm-multiroute      │             
   ├─────────────────────┼────────────────────────────────┤             
-  │ llm-frontend-python │ jasperteo2412/llm-frontend-python │             
+  │ llm-frontend-python │ jttxncs/llm-frontend-python │             
   └─────────────────────┴────────────────────────────────┘             
   Required secret
   Add this in your repo settings (Settings > Secrets and variables > Actions):
   Secret: DOCKERHUB_TOKEN
-  Purpose: Docker Hub access token for jasperteo2412 (generate at https://hub.docker.com/settings/security)
+  Purpose: Docker Hub access token for jttxncs (generate at https://hub.docker.com/settings/security)
   Use a Docker Hub access token rather than your password — you can create one under Account Settings > Security > Access Tokens.
